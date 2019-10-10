@@ -1,3 +1,5 @@
+## Example app for reproducing sentry breadcrumb bug tracked here: https://github.com/getsentry/sentry-javascript/issues/2125
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
